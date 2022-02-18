@@ -46,6 +46,7 @@ img {
 }
 
 h1 {
+    font-size: 1.6rem;
     padding-top: 1.5rem;
     padding-bottom: 1rem;
     text-align: center;
@@ -54,11 +55,23 @@ h1 {
 p {
     font-weight: 400;
     text-align: center;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
 }
 
 p span {
     display: block;
+}
+
+
+/* 320-419 */
+
+@media screen and (max-width:320px) {
+    h1 {
+        font-size: 1.5rem
+    }
+    p {
+        font-size: 1rem;
+    }
 }
 
 @media screen and (min-width:800px) {
