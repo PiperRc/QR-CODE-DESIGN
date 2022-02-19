@@ -41,11 +41,10 @@ Start with the mobile version first, then design the desktop version.
 
 ### Useful resources
 
-- [MDN](https://developer.mozilla.org/en-US/) -
+- [MDN](https://developer.mozilla.org/en-US/)
 ## Author
 
-- 
-- Frontend Mentor - [@PiperRc](https://www.frontendmentor.io/profile/PiperRc)
+- Frontend Mentor Prolfile - [@PiperRc](https://www.frontendmentor.io/profile/PiperRc)
 
 
 
